@@ -1,7 +1,3 @@
-
-This churn analysis highlights critical factors influencing customer retention. Active engagement appears crucial for reducing churn, while older customers show greater loyalty. However, customers with multiple products require additional attention to prevent churn, possibly through improved service or targeted retention strategies.
-Here's an updated version tailored for churn analysis:
-
 ---
 
 # Churn_Analysis
@@ -20,7 +16,8 @@ Here's an updated version tailored for churn analysis:
 <br>
 <div align="center">
 
-![Churn Analysis](https://st.depositphotos.com/2228340/2622/i/450/depositphotos_26229727-stock-photo-positivity.jpg)
+![Churn Analysis](![image](https://github.com/user-attachments/assets/933beba1-d9e7-4bf1-b6c1-bb22d05a2989)
+)
 
 </div>
 <br>
