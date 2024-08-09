@@ -5,7 +5,7 @@
 
 **Objective:** To accurately predict customer churn, enabling proactive retention strategies to improve customer loyalty and reduce revenue loss using machine learning.
 
-**Approach:** Understanding data, data preprocessing, feature selection, and applying ML models such as KNN.
+**Approach:** Understanding data, data preprocessing, feature selection, and applying ML .
 
 **Outcome:** A predictive model that specifically targets enhanced Recall to minimize false negatives in churn prediction.
 
