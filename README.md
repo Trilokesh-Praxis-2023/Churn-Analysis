@@ -1,6 +1,7 @@
+
 ---
 
-# Churn_Analysis
+# Churn Analysis
 
 **Objective:** To accurately predict customer churn, enabling proactive retention strategies to improve customer loyalty and reduce revenue loss using machine learning.
 
@@ -8,20 +9,15 @@
 
 **Outcome:** A predictive model that specifically targets enhanced Recall to minimize false negatives in churn prediction.
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+<br><br><br><br><br><br>
+
 <div align="center">
 
 ![Churn Analysis](https://www.scnsoft.com/blog-pictures/business-intelligence/customer-churn-analysis.png)
 
-
 </div>
-<br>
-<br>
+
+<br><br>
 
 <p align="center">
   <a href="https://www.r-project.org/"><img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt="R"></a>
@@ -44,5 +40,3 @@
 </p>
 
 ---
-
-This updated version reflects the focus on churn analysis, retaining the structure and visual elements of your original template.
