@@ -16,7 +16,7 @@
 <br>
 <div align="center">
 
-![Churn Analysis](![image](https://github.com/user-attachments/assets/933beba1-d9e7-4bf1-b6c1-bb22d05a2989)
+![Churn Analysis](![image]([https://github.com/user-attachments/assets/933beba1-d9e7-4bf1-b6c1-bb22d05a2989](https://www.scnsoft.com/blog-pictures/business-intelligence/customer-churn-analysis.png))
 )
 
 </div>
